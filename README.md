@@ -24,3 +24,11 @@
 - [ ] C++
 - [ ] TypeScript
 - [ ] Scala
+
+# 書きたい言語
+- [ ] Ruby
+- [x] JavaScript
+- [ ] Java
+- [ ] C#
+- [ ] C++
+- [ ] Kotlin
