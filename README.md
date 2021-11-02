@@ -1,16 +1,26 @@
-### Hi there 👋
+少しIQが低い以外はただの人間。
+語彙力と読解力、ともに欠如している。
 
-<!--
-**Akkey57492/Akkey57492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 書ける言語
+- [x] Python
+- [ ] Ruby
+- [x] JavaScript
+- [ ] Java
+- [ ] Kotlin
+- [ ] C#
+- [ ] C
+- [ ] C++
+- [ ] TypeScript
+- [ ] Scala
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 学習中の言語
+- [ ] Python
+- [ ] Ruby
+- [x] JavaScript
+- [x] Java
+- [ ] Kotlin
+- [x] C#
+- [ ] C
+- [ ] C++
+- [ ] TypeScript
+- [ ] Scala
