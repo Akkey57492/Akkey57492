@@ -12,6 +12,7 @@
 - [ ] C++
 - [ ] TypeScript
 - [ ] Scala
+- [ ] Go
 
 # 学習中の言語
 - [ ] Python
@@ -24,6 +25,7 @@
 - [ ] C++
 - [ ] TypeScript
 - [ ] Scala
+- [ ] Go
 
 # 書きたい言語
 - [ ] Ruby
