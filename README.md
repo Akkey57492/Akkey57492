@@ -2,9 +2,9 @@
 語彙力と読解力、ともに欠如している。
 
 # 書ける言語
-- [x] Python
+- [x] Python(40%)
 - [ ] Ruby
-- [x] JavaScript
+- [x] JavaScript(15%)
 - [ ] Java
 - [ ] Kotlin
 - [ ] C#
@@ -17,10 +17,10 @@
 # 学習中の言語
 - [ ] Python
 - [ ] Ruby
-- [x] JavaScript
-- [x] Java
+- [x] JavaScript(15%)
+- [x] Java(20%)
 - [ ] Kotlin
-- [x] C#
+- [ ] C#(10%)
 - [ ] C
 - [ ] C++
 - [ ] TypeScript
@@ -29,7 +29,7 @@
 
 # 書きたい言語
 - [ ] Ruby
-- [x] JavaScript
+- [x] JavaScript(15%)
 - [ ] Java
 - [ ] C#
 - [ ] C++
