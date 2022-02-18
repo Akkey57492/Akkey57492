@@ -5,7 +5,7 @@
 - [x] Python(40%)
 - [ ] Ruby
 - [x] JavaScript(15%)
-- [ ] Java
+- [x] Java(25%)
 - [ ] Kotlin
 - [ ] C#
 - [ ] C
@@ -15,22 +15,22 @@
 - [ ] Go
 
 # 学習中の言語
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [x] JavaScript(15%)
-- [x] Java(20%)
+- [x] Java(25%)
 - [ ] Kotlin
 - [ ] C#(10%)
 - [ ] C
 - [ ] C++
 - [ ] TypeScript
 - [ ] Scala
-- [ ] Go
+- [x] Go(5%)
 
 # 書きたい言語
 - [ ] Ruby
-- [x] JavaScript(15%)
-- [ ] Java
+- [x] JavaScript
+- [x] Java
 - [ ] C#
 - [ ] C++
 - [ ] Kotlin
