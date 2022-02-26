@@ -2,7 +2,7 @@
 語彙力と読解力、ともに欠如している。
 
 # 書ける言語
-- [x] Python(40%)
+- [x] Python(45%)
 - [ ] Ruby
 - [x] JavaScript(15%)
 - [x] Java(25%)
@@ -15,7 +15,7 @@
 - [ ] Go
 
 # 学習中の言語
-- [x] Python
+- [x] Python(45%)
 - [ ] Ruby
 - [x] JavaScript(15%)
 - [x] Java(25%)
